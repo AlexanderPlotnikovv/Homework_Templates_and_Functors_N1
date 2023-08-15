@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework Templates and Functors N1", "Homework Templates and Functors N1\Homework Templates and Functors N1.vcxproj", "{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Debug|x64.ActiveCfg = Debug|x64
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Debug|x64.Build.0 = Debug|x64
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Debug|x86.Build.0 = Debug|Win32
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Release|x64.ActiveCfg = Release|x64
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Release|x64.Build.0 = Release|x64
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Release|x86.ActiveCfg = Release|Win32
+		{9CF75BEE-CD13-45DF-9BD5-05ED2EB4F0EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB3CAEF-6229-44A3-8FB0-C97861B41B01}
+	EndGlobalSection
+EndGlobal
