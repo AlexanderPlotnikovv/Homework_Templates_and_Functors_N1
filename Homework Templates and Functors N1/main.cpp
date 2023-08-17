@@ -8,7 +8,7 @@ T Square(T a)
 }
 
 template<class T>
-std::vector<T> Square(std::vector<T>& vector)
+std::vector<T> Square(std::vector<T> vector)
 {
 	for (int i = 0; i != vector.size(); ++i)
 	{
